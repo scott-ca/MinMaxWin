@@ -1,0 +1,6 @@
+#MinMaxWin
+keyboard==0.13.5
+pynput==1.7.6
+pySide2==5.15.2.1
+xdotool==0.4.0
+setproctitle==1.3.2
